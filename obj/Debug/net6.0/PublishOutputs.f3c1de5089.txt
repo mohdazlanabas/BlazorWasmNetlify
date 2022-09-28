@@ -1,0 +1,1 @@
+E:\Desktop\Software_Lang\BlazorWasmNetlify\bin\Debug\net6.0\publish\web.config
